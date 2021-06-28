@@ -1,2 +1,1 @@
-# task record
-with HTML, CSS and JavaScript
+This project is made using HTML, CSS and JavaScript. Taking about the features of this system, the user can make the list of their daily works that they have to do and keep them as records. The user can also categorize the tasks as per their priority. You just have to type the work information in the text fields and press the enter to add the information on the record. This project includes a lot of JavaScript for making the functioning of the project.
